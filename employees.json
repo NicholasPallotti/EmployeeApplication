@@ -1,0 +1,11 @@
+[ [ "application.CommissionedEmployee", {
+  "firstName" : "Sue",
+  "lastName" : "Jones",
+  "birthday" : "9/8/1954",
+  "earnings" : 600.0,
+  "employeeType" : null,
+  "grossSales" : 10000.0,
+  "commissionRate" : 0.06,
+  "ssi" : "333-33-3333",
+  "age" : "65"
+} ] ]
